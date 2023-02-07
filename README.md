@@ -1,33 +1,33 @@
-<h1 align="center">Hi 👋, I'm Ajay Sankapal</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<!-- <a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/56495602/198199409-5df07f02-70ba-48cd-9a87-e050ccb8f8af.png" /></a> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysankapal&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysankapal" /> </p>
+<h4 align="center">I believe in Learning in Public & Building in Public</h4>
 
-- 🔭 I’m currently working on **retail store management web application**
+- 💡  I like to explore new technologies and develop software solutions and quick hacks.
+- 🎓  I'm currently studying Electronics and Communication Engineering at the University Institute of Technology, RGTU.
+- 🌱  I'm on track for learning more about Databases and Cloud Computing.
+- ✉️  You can shoot me an email at [ajaysankapal638@gmail.com](mailto:ajaysankapal638@gmail.com)! I'll try to respond as soon as I can.
+- 📄  Please have a look at my [Resume](https://drive.google.com/file/d/1nao8YkTe0dOQ5QhtLxv8qlO_z0XtV3Ne/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-- 🌱 I’m currently learning **Databases and Cloud Computing**
+<Br>
+  
+<h1 align="center">Skills</h1>
 
-- 👨‍💻 All of my projects are available at [https://ajaysankapal.netlify.app/](https://ajaysankapal.netlify.app/)
-
-- 💬 Ask me about **JavaScript, React, Angular,Node.js, Express.js, Java**
-
-- 📫 How to reach me **ajaysankapal638@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nao8YkTe0dOQ5QhtLxv8qlO_z0XtV3Ne/view?usp=sharing](https://drive.google.com/file/d/1nao8YkTe0dOQ5QhtLxv8qlO_z0XtV3Ne/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajay-sankapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-sankapal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ajay_sankapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajay_sankapal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajay_sankapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajay_sankapal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ajay_sankapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajay_sankapal" height="30" width="40" /></a>
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://pluspng.com/img-png/javascript-vector-png-javascript-vector-logo-600.png" width="48" height="48" alt="Javascript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" height="48" alt="Angular" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="48" height="48" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="48" height="48" alt="MongoDB" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaysankapal&show_icons=true&locale=en&layout=compact" alt="ajaysankapal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaysankapal&show_icons=true&locale=en" alt="ajaysankapal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaysankapal&" alt="ajaysankapal" /></p>
+<Br>
+<h1 align="center">Get in Touch! 📬</h1>
+<Br>
+<p align="center">
+<a href="https://www.linkedin.com/in/ajay-sankapal-29a1241b2/" target="blank"><img align="center" src="https://img.shields.io/badge/Ajay Sankapal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:ajaysankapal638@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/ajaysankapal638@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://twitter.com/ajay_sankapal" target="blank"><img align="center" src="https://img.shields.io/badge/ajay_sankapal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+  
+<Br>
