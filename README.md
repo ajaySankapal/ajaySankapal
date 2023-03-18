@@ -6,7 +6,7 @@
 - 🎓  I'm currently studying Electronics and Communication Engineering at the University Institute of Technology, RGTU.
 - 🌱  I'm on track for learning more about Databases and Cloud Computing.
 - ✉️  You can shoot me an email at [ajaysankapal638@gmail.com](mailto:ajaysankapal638@gmail.com)! I'll try to respond as soon as I can.
-- 📄  Please have a look at my [Resume](https://drive.google.com/file/d/1nao8YkTe0dOQ5QhtLxv8qlO_z0XtV3Ne/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📄  Please have a look at my [Resume](https://drive.google.com/file/d/13qv9JOvBIjx2bqlIPwtC3c-zA19dKcoc/view?usp=share_link) for more details about me. I'm open to feedback and suggestions!
 
 <Br>
   
