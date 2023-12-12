@@ -3,7 +3,7 @@
 <h4 align="center">I believe in Learning in Public & Building in Public</h4>
 
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
-- 🎓  I'm currently studying Electronics and Communication Engineering at the University Institute of Technology, RGTU.
+- 🎓  I'm currently working as a Fullstack Engineer at TensorGo Software Pvt Ltd.
 - 🌱  I'm on track for learning more about Databases and Cloud Computing.
 - ✉️  You can shoot me an email at [ajaysankapal.in@gmail.com](mailto:ajaysankapal.in@gmail.com)! I'll try to respond as soon as I can.
 - 📄  Please have a look at my [Resume](https://drive.google.com/file/d/1T7tMJAw22ZfjIqJFpm3rEIjNu7MXcH6B/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
