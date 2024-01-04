@@ -6,7 +6,7 @@
 - 🎓  I'm currently working as a Fullstack Engineer at TensorGo Software Pvt Ltd.
 - 🌱  I'm on track for learning more about Databases and Cloud Computing.
 - ✉️  You can shoot me an email at [ajaysankapal.in@gmail.com](mailto:ajaysankapal.in@gmail.com)! I'll try to respond as soon as I can.
-- 📄  Please have a look at my [Resume](https://drive.google.com/file/d/1T7tMJAw22ZfjIqJFpm3rEIjNu7MXcH6B/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📄  Please have a look at my [Resume](https://drive.google.com/file/d/1Hg_zOSqapx3kjKAXtil8xktss9dfccji/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <Br>
   
